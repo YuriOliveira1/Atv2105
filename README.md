@@ -1,18 +1,9 @@
-## Getting Started
+# Atividade 21/05
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Enunciado:
 
-## Folder Structure
+Uma loja de produtos exóticos precisa apenas catalogar os seus produtos e suas respectivas descrições. Crie uma classe para o produto com seus atributos: nome e descrição. Crie uma outra classe chamada Estoque para armazenar os produtos, listar e ter a possibilidade de procurar um produto pelo seu nome. Lembre-se de tratar os possíveis erros que poderão aparecer no seu código.
 
-The workspace contains two folders by default, where:
+Informação Adicional:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Essa Loja vende certos produtos exoticos como: Pinguim com armadura de Titanio com arma de Fogo, Pombo mutante que pilota uma aeronave chamada Biru.
